@@ -28,6 +28,7 @@ heloo this is the practice file for demo purposes for masterbranch
 heloo this is the practice file for demo purposes.
 
 heloo this is the practice file for demo purposes. 
+<<<<<<< HEAD
 heloo this is the practice file for demo purposes.
 
 heloo this is the practice file for demo purposes.
@@ -58,3 +59,5 @@ heloo this is the practice file for demo purposes for masterbranch
 heloo this is the practice file for demo purposes.
 
 heloo this is the practice file for demo purposes. 
+=======
+>>>>>>> masterbranch
